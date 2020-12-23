@@ -1,0 +1,25 @@
+{
+  "student": [
+    {
+      "name": "John Wicks",
+      "roll": "1",
+      "email": "johnwicks@mail.com",
+      "phone": "5111851221",
+      "id": 103
+    },
+    {
+      "name": "Elon Musk",
+      "roll": "2",
+      "email": "elon@spacex.com",
+      "phone": "7896541230",
+      "id": 104
+    },
+    {
+      "name": "Richard Branson",
+      "roll": "3",
+      "email": "richbran@mail.com",
+      "phone": "1237894560",
+      "id": 105
+    }
+  ]
+}
