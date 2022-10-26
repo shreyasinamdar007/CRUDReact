@@ -29,8 +29,7 @@ const Navbar = () => {
           </ul>
         </div>
         <Link className="btn btn-primary" to="/users/AddUser">
-          {" "}
-          Add User{" "}
+          Add User
         </Link>
       </div>
     </nav>

@@ -18,6 +18,7 @@ const Home = () => {
     await axios.delete(`http://localhost:3002/student/${id}`);
     getUsers();
   };
+  
   return (
     <div className="container">
       <div className="py 4">

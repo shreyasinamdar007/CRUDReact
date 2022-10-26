@@ -1,9 +1,9 @@
 {
   "student": [
     {
-      "name": "John Wicks",
+      "name": "John Wick",
       "roll": "1",
-      "email": "johnwicks@mail.com",
+      "email": "johnwick@mail.com",
       "phone": "5111851221",
       "id": 103
     },

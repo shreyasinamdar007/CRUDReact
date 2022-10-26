@@ -7,7 +7,7 @@ const AddUser = () => {
   let history = useHistory();
   const [user, setUser] = useState({
     name: "",
-    roll: "",
+    roll: "", 
     email: "",
     phone: "",
   });
@@ -38,7 +38,6 @@ const AddUser = () => {
               className="form-control"
               placeholder="Full Name"
               value={user.name}
-              className="form-control"
               onChange={(e) => inputChange(e)}
               required
             />
